@@ -19,4 +19,4 @@ _Blood sun Imagine_ 이라는 프로젝트 팀으로도 종종 곡을 발표했�
 
 **2021년 07월 28일**
 
-Jekyll 테마는 **kotet** 님의 [ultralight](https://github.com/kotet/ultralight/)입니다.
+- Jekyll 테마는 **kotet** 님의 [ultralight](https://github.com/kotet/ultralight/)입니다.
