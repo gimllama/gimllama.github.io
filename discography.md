@@ -21,7 +21,9 @@ permalink: /discography/
 ![sore panorama of snowy country](https://user-images.githubusercontent.com/88064813/127309720-0f152b63-0190-419a-a5ed-fdaa67d7d63a.jpg)   
 <details> <summary>설국의 쓰라린 주마등 (sore panorama of snowy country)</summary>
 <div markdown="1">
-
+released July 6, 2016<br>
+  all songs by gim llama<br>        
+  cover painted by chitosan<br>
 </div>
 </details>
 
