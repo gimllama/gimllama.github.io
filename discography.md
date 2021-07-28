@@ -6,8 +6,9 @@ permalink: /discography/
 ### EP
 
 ![waiting for lone-gang](https://user-images.githubusercontent.com/88064813/127306889-c2d3608b-b31e-4b7d-a0c0-7b6a015b7f19.jpg)   
-<details> <summary>외톨이갱을 기다리며 (wating for lone-gang)</summary>
+<details> <summary>외톨이갱을 기다리며</summary>
 <div markdown="1">
+  waiting for lone-gang<br>
   released January 25, 2019<br>   
   all songs by gim llama<br>
   cover designed by kimmoondog<br>    
@@ -19,9 +20,10 @@ permalink: /discography/
 </details>
 
 ![sore panorama of snowy country](https://user-images.githubusercontent.com/88064813/127309720-0f152b63-0190-419a-a5ed-fdaa67d7d63a.jpg)   
-<details> <summary>설국의 쓰라린 주마등 (sore panorama of snowy country)</summary>
+<details> <summary>설국의 쓰라린 주마등</summary>
 <div markdown="1">
-released July 6, 2016<br>   
+  sore panorama of snowy country<br>
+  released July 6, 2016<br>   
   all songs by gim llama<br>
   cover painted by chitosan<br>
 </div>
