@@ -1,4 +1,2 @@
 [Bandcamp](https://gimllama.bandcamp.com)
 | [Spotify](https://open.spotify.com/artist/2dgcjWOQIshDvep6S2djXD?si=6fe58efc028f4c9a)
-
-[ultralight](https://github.com/kotet/ultralight) Jekyll theme made by kotet
