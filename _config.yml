@@ -16,7 +16,7 @@
 title: gim llama
 baseurl: "" # For github pages
 description: >- # You can edit footer in _includes/footer.md 
-  This is an ultralight demo.
+  김라마의 블로그입니다.
 
 google_analytics: # Enter your tracking ID. Not available on IPFS
 
