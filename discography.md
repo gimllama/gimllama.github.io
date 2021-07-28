@@ -3,7 +3,7 @@ layout: page
 title: discography
 permalink: /discography/
 ---
-## EP
+### EP
 
 ![waiting for lone-gang](https://user-images.githubusercontent.com/88064813/127306889-c2d3608b-b31e-4b7d-a0c0-7b6a015b7f19.jpg)   
 **외톨이갱을 기다리며 (wating for lone-gang)**
