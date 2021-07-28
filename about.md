@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-안녕하세요. **김라마**입니다.
+안녕하세요. 싱어송라이터 **김라마**입니다.
 
 저는 2016년, EP _설국의 쓰라린 주마등_ 으로 데뷔했습니다.
 _Blood sun Imagine_ 이라는 프로젝트 팀으로도 종종 곡을 발표했고요.
