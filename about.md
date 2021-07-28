@@ -4,7 +4,11 @@ title: About
 permalink: /about/
 ---
 
-![shot](https://user-images.githubusercontent.com/8435623/34344912-0665d490-ea2e-11e7-9bd8-919a6ced2a40.png)
+## 블로그 소개
+안녕하세요. 김라마입니다.
+저는 2016년 EP, _**설국의 쓰라린 주마등**_으로 데뷔하여 지금까지 활동하고 있는 싱어송라이터입니다.
+Blood sun Imagine이라는 프로젝트 팀에서도 
+
 
 Ultralight is super-lightweight responsive super Jekyll theme.
 It can be hosted on GitHub Pages/IPFS.
@@ -20,7 +24,6 @@ It can be hosted on GitHub Pages/IPFS.
 
 ![screenshot from 2017-12-26 10-17-46](https://user-images.githubusercontent.com/8435623/34344205-7f316c3e-ea26-11e7-8fcb-1184ee929c8d.png)
 
-## Usage
 
 ### GitHub Pages
 
