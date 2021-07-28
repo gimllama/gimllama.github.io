@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 안녕하세요. 싱어송라이터 **김라마**입니다.
