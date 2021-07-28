@@ -6,50 +6,13 @@ permalink: /about/
 안녕하세요. 김라마입니다.
 
 저는 2016년 EP, _설국의 쓰라린 주마등_ 으로 데뷔하여 지금까지 활동하고 있습니다.
+
 _Blood sun Imagine_ 이라는 프로젝트 팀으로도 종종 곡을 발표하고 있어요.
+
 하지만 여러분이 제 예전 작업물을 찾기는 쉽지 않을 겁니다. 제가 다 지워버렸거든요.
+
 이 블로그는 틈만 나면 자기 흔적을 지우는 사람에게 브레이크를 걸기 위해 만들었습니다.
+
 이곳에 올라오는 글은 되도록 지우지 않게끔 노력하겠습니다.
 
-
-
-
-Ultralight is super-lightweight responsive super Jekyll theme.
-It can be hosted on GitHub Pages/IPFS.
-
-[demo1](https://kotet.github.io/ultralight/)
-
-### Output size:
-
-- [minima@affcd93](https://github.com/jekyll/minima/tree/affcd93be22e960afd2be08e6891d99b31bcf920): 256K
-- **[ultralight@9bffabb](https://github.com/kotet/ultralight/tree/9bffabb42cc64c0be563d5c3d3977ab6bb5761b9): 40K**
-
-### Pagespeed:
-
-![screenshot from 2017-12-26 10-17-46](https://user-images.githubusercontent.com/8435623/34344205-7f316c3e-ea26-11e7-8fcb-1184ee929c8d.png)
-
-
-### GitHub Pages
-
-```console
-$ git clone https://github.com/kotet/ultralight.git && cd ultralight
-$ git remote set-url origin https://github.com/yourname/yourname.github.io.git
-$ git push origin master
-```
-
-### IPFS
-
-```console
-$ git clone https://github.com/kotet/ultralight.git && cd ultralight
-$ bundle && bundle exec jekyll build
-$ ipfs add -r _site/
-```
-
-#### Internal link
-
-On IPFS, all internal links must be relative links.
-You can use `relative` template like this:
-
-```
-{% raw %}[link]({% include relative %}{% post_url your-article-filename %}){% endraw %}
-```
+Jekyll 테마는 kotet 님의 [ultralight](https://github.com/kotet/ultralight/)를 사용하고 있습니다.
