@@ -13,8 +13,8 @@ permalink: /discography/
 
 ### Blood sun Imagine
 
-괴작 1.8 (strange works 1.8)
+**괴작 1.8 (strange works 1.8)**
 
-괴작 1.5 (strange works 1.5)
+**괴작 1.5 (strange works 1.5)**
 
-괴작 (strange works)
+**괴작 (strange works)**
