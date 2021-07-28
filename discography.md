@@ -9,7 +9,7 @@ permalink: /discography/
 <details> <summary>외톨이갱을 기다리며 (wating for lone-gang)</summary>
 <div markdown="1">
   released January 25, 2019<br>
-  all songs by gim llama<br>        
+  all songs by gim llama<br>
   cover designed by kimmoondog<br>
   compact disc -> <a href="http://gimbabrecords.com/product/detail.html?product_no=12948&cate_no=29&display_group=1">gimbabrecords</a>
   | <a href="https://www.hyangmusic.com/View.php?cate_code=KINR&code=4675&album_mode=music">hyangmusic</a><br>
@@ -22,7 +22,7 @@ permalink: /discography/
 <details> <summary>설국의 쓰라린 주마등 (sore panorama of snowy country)</summary>
 <div markdown="1">
 released July 6, 2016<br>
-  all songs by gim llama<br>        
+  all songs by gim llama<br>
   cover painted by chitosan<br>
 </div>
 </details>
