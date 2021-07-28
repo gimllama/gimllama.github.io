@@ -29,10 +29,33 @@ permalink: /discography/
 </div>
 </details>
 
-#### Blood sun Imagine
+### single
 
-- 괴작 1.8 (strange works 1.8)
+![1 8](https://user-images.githubusercontent.com/88064813/127410481-d5a82db4-5724-41b7-8e6a-f6cbf08bbfa3.jpg)
+<details> <summary>괴작 1.8</summary>
+<div markdown="1">
+  strange works 1.8<br>
+  released July 19, 2018<br>   
+  all songs by Blood sun Imagine<br>
+  cover designed by kimmoondog<br>
+</div>
+</details>
 
-- 괴작 1.5 (strange works 1.5)
+![1 5](https://user-images.githubusercontent.com/88064813/127410631-9d5799f7-9334-4e8b-9b55-846e9d4ba313.jpg)
+<details> <summary>괴작 1.5</summary>
+<div markdown="1">
+  strange works 1.5<br>
+  released March 27, 2016<br>   
+  all songs by Blood sun Imagine<br>
+  cover designed by kimmoondog<br>
+</div>
+</details>
 
-- 괴작 (strange works)
+![1 0](https://user-images.githubusercontent.com/88064813/127410774-5dc2dc6d-e343-49de-89da-e9241de6b777.jpg)
+<details> <summary>괴작</summary>
+<div markdown="1">
+  strange works<br>
+  released June 14, 2015<br>   
+  all songs by Blood sun Imagine<br>
+</div>
+</details>
