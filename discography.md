@@ -10,7 +10,7 @@ permalink: /discography/
 <div markdown="1">
   released January 25, 2019<br>
   all songs by gim llama<br>
-  cover designed by kimmoondog<br>
+  cover designed by kimmoondog<br>    
   compact disc -> <a href="http://gimbabrecords.com/product/detail.html?product_no=12948&cate_no=29&display_group=1">gimbabrecords</a>
   | <a href="https://www.hyangmusic.com/View.php?cate_code=KINR&code=4675&album_mode=music">hyangmusic</a><br>
   digital album -> <a href="https://gimllama.bandcamp.com/album/waiting-for-lone-gang">bandcamp</a>
