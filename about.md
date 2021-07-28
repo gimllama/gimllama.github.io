@@ -6,8 +6,10 @@ permalink: /about/
 
 ## 블로그 소개
 안녕하세요. 김라마입니다.
+
 저는 2016년 EP, 설국의 쓰라린 주마등으로 데뷔하여 지금까지 활동하고 있는 싱어송라이터입니다.
-Blood sun Imagine이라는 프로젝트 팀에서도 
+
+_Blood sun Imagine_ 이라는 프로젝트 팀에서도 
 
 
 Ultralight is super-lightweight responsive super Jekyll theme.
