@@ -11,7 +11,7 @@ permalink: /discography/
 ![sore panorama of snowy country](https://user-images.githubusercontent.com/88064813/127309720-0f152b63-0190-419a-a5ed-fdaa67d7d63a.jpg)   
 **설국의 쓰라린 주마등 (sore panorama of snowy country)**
 
-### Blood sun Imagine
+#### Blood sun Imagine
 
 - 괴작 1.8 (strange works 1.8)
 
