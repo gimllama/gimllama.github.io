@@ -31,7 +31,7 @@ permalink: /discography/
 </div>
 </details>
 
-### single
+### Blood sun Imagine
 
 ![1 8](https://user-images.githubusercontent.com/88064813/127410481-d5a82db4-5724-41b7-8e6a-f6cbf08bbfa3.jpg)
 <details> <summary></summary>
