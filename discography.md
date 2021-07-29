@@ -6,8 +6,9 @@ permalink: /discography/
 ### EP
 
 ![waiting for lone-gang](https://user-images.githubusercontent.com/88064813/127306889-c2d3608b-b31e-4b7d-a0c0-7b6a015b7f19.jpg)   
-<details> <summary>외톨이갱을 기다리며</summary>
+<details> <summary></summary>
 <div markdown="1">
+  외톨이갱을 기다리며<br>
   waiting for lone-gang<br>
   released January 25, 2019<br>   
   all songs by gim llama<br>
@@ -20,8 +21,9 @@ permalink: /discography/
 </details>
 
 ![sore panorama of snowy country](https://user-images.githubusercontent.com/88064813/127309720-0f152b63-0190-419a-a5ed-fdaa67d7d63a.jpg)   
-<details> <summary>설국의 쓰라린 주마등</summary>
+<details> <summary></summary>
 <div markdown="1">
+  설국의 쓰라린 주마등<br>
   sore panorama of snowy country<br>
   released July 6, 2016<br>   
   all songs by gim llama<br>
@@ -32,8 +34,9 @@ permalink: /discography/
 ### single
 
 ![1 8](https://user-images.githubusercontent.com/88064813/127410481-d5a82db4-5724-41b7-8e6a-f6cbf08bbfa3.jpg)
-<details> <summary>괴작 1.8</summary>
+<details> <summary></summary>
 <div markdown="1">
+  괴작 1.8<br>
   strange works 1.8<br>
   released July 19, 2018<br>   
   all songs by Blood sun Imagine<br>
@@ -42,8 +45,9 @@ permalink: /discography/
 </details>
 
 ![1 5](https://user-images.githubusercontent.com/88064813/127410631-9d5799f7-9334-4e8b-9b55-846e9d4ba313.jpg)
-<details> <summary>괴작 1.5</summary>
+<details> <summary></summary>
 <div markdown="1">
+  괴작 1.5<br>
   strange works 1.5<br>
   released March 27, 2016<br>   
   all songs by Blood sun Imagine<br>
@@ -52,8 +56,9 @@ permalink: /discography/
 </details>
 
 ![1 0](https://user-images.githubusercontent.com/88064813/127410774-5dc2dc6d-e343-49de-89da-e9241de6b777.jpg)
-<details> <summary>괴작</summary>
+<details> <summary></summary>
 <div markdown="1">
+  괴작<br>
   strange works<br>
   released June 14, 2015<br>   
   all songs by Blood sun Imagine<br>
