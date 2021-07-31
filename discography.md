@@ -9,7 +9,7 @@ permalink: /discography/
 <details> <summary></summary>
 <div markdown="1">
   외톨이갱을 기다리며<br>
-  waiting for lone-gang<br>
+  waiting for lone-gang<br>   
   released January 25, 2019<br>   
   all songs by gim llama<br>
   cover designed by kimmoondog<br>    
@@ -24,7 +24,7 @@ permalink: /discography/
 <details> <summary></summary>
 <div markdown="1">
   설국의 쓰라린 주마등<br>
-  sore panorama of snowy country<br>
+  sore panorama of snowy country<br>    
   released July 6, 2016<br>   
   all songs by gim llama<br>
   cover painted by chitosan<br>
@@ -37,7 +37,7 @@ permalink: /discography/
 <details> <summary></summary>
 <div markdown="1">
   괴작 1.8<br>
-  strange works 1.8<br>
+  strange works 1.8<br>   
   released July 19, 2018<br>   
   all songs by Blood sun Imagine<br>
   cover designed by kimmoondog<br>
@@ -48,7 +48,7 @@ permalink: /discography/
 <details> <summary></summary>
 <div markdown="1">
   괴작 1.5<br>
-  strange works 1.5<br>
+  strange works 1.5<br>   
   released March 27, 2016<br>   
   all songs by Blood sun Imagine<br>
   cover designed by kimmoondog<br>
@@ -59,7 +59,7 @@ permalink: /discography/
 <details> <summary></summary>
 <div markdown="1">
   괴작<br>
-  strange works<br>
+  strange works<br>   
   released June 14, 2015<br>   
   all songs by Blood sun Imagine<br>
 </div>
