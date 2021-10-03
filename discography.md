@@ -3,6 +3,23 @@ layout: page
 title: discography
 permalink: /discography/
 ---
+
+### out now
+
+![songjeongmansion](https://user-images.githubusercontent.com/88064813/135744960-d29e73ec-699d-4c29-9b7d-572ba1f28ee5.jpeg)
+<details> <summary></summary>
+<div markdown="1">
+  송정맨션<br>
+  songjeongmansion<br>   
+  released October 3, 2021<br>   
+  all songs by gim llama & Khundi Panda<br>
+  mastered by Gyeongseon Park @Boost Knob
+  cover painted by 이환동<br>    
+  digital album -> <a href="https://gimllama.bandcamp.com/album/waiting-for-lone-gang">spotify</a><br>
+</div>
+</details>
+
+
 ### EP
 
 ![waiting for lone-gang](https://user-images.githubusercontent.com/88064813/127306889-c2d3608b-b31e-4b7d-a0c0-7b6a015b7f19.jpg)   
