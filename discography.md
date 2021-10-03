@@ -15,7 +15,7 @@ permalink: /discography/
   all songs by gim llama & Khundi Panda<br>
   mastered by Gyeongseon Park @Boost Knob<br>
   cover painted by 이환동<br>    
-  digital album -> <a href="https://gimllama.bandcamp.com/album/waiting-for-lone-gang">spotify</a><br>
+  digital album -> soon<br>
 </div>
 </details>
 
