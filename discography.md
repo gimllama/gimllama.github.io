@@ -13,7 +13,7 @@ permalink: /discography/
   songjeongmansion<br>   
   released October 3, 2021<br>   
   all songs by gim llama & Khundi Panda<br>
-  mastered by Gyeongseon Park @Boost Knob
+  mastered by Gyeongseon Park @Boost Knob<br>
   cover painted by 이환동<br>    
   digital album -> <a href="https://gimllama.bandcamp.com/album/waiting-for-lone-gang">spotify</a><br>
 </div>
