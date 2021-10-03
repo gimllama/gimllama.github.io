@@ -6,7 +6,7 @@ permalink: /discography/
 
 ### out now
 
-![songjeongmansion](https://user-images.githubusercontent.com/88064813/135744960-d29e73ec-699d-4c29-9b7d-572ba1f28ee5.jpeg)
+![songjeongmansion](https://user-images.githubusercontent.com/88064813/135745161-d81c6018-b0a0-4e65-8739-67449e150c3b.jpeg)
 <details> <summary></summary>
 <div markdown="1">
   송정맨션<br>
