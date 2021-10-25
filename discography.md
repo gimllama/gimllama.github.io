@@ -15,7 +15,7 @@ permalink: /discography/
   all songs by gim llama & Khundi Panda<br>
   mastered by Gyeongseon Park @Boost Knob<br>
   cover painted by 이환동<br>    
-  digital album -> will be available soon<br>
+  digital album -> <a href="https://open.spotify.com/album/5rpHo24DUibA4Uvq0Ucn4S?si=dGlll8RAQqCu-m01oRFN9g">spotify</a><br>
 </div>
 </details>
 
