@@ -14,7 +14,7 @@ permalink: /discography/
   released february 25, 2022<br>   
   a song by gim llama<br>
   illustrated by cool song<br>    
-  digital single -> <a href="https://open.spotify.com/album/5rpHo24DUibA4Uvq0Ucn4S?si=dGlll8RAQqCu-m01oRFN9g">spotify</a><br>
+  digital single -> <a href="https://linktr.ee/gimllama">link</a><br>
 </div>
 </details>
 
