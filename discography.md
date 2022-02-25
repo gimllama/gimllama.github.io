@@ -81,7 +81,7 @@ permalink: /discography/
 </div>
 </details>
 
-### out now
+### collaboration
 
 ![songjeongmansion](https://user-images.githubusercontent.com/88064813/135745161-d81c6018-b0a0-4e65-8739-67449e150c3b.jpeg)
 <details> <summary></summary>
