@@ -6,16 +6,15 @@ permalink: /discography/
 
 ### out now
 
-![songjeongmansion](https://user-images.githubusercontent.com/88064813/135745161-d81c6018-b0a0-4e65-8739-67449e150c3b.jpeg)
+![shotgun (#1)](https://user-images.githubusercontent.com/88064813/155632054-0c56e926-decf-43fc-9cf5-e8d78a0636b8.jpg)
 <details> <summary></summary>
 <div markdown="1">
-  송정맨션<br>
-  songjeongmansion<br>   
-  released October 3, 2021<br>   
-  all songs by gim llama & Khundi Panda<br>
-  mastered by Gyeongseon Park @Boost Knob<br>
-  cover painted by 이환동<br>    
-  digital album -> <a href="https://open.spotify.com/album/5rpHo24DUibA4Uvq0Ucn4S?si=dGlll8RAQqCu-m01oRFN9g">spotify</a><br>
+  샷건 (#1)<br>
+  shotgun (#1)<br>   
+  released february 25, 2022<br>   
+  a song by gim llama<br>
+  illustrated by cool song<br>    
+  digital single -> <a href="https://open.spotify.com/album/5rpHo24DUibA4Uvq0Ucn4S?si=dGlll8RAQqCu-m01oRFN9g">spotify</a><br>
 </div>
 </details>
 
@@ -79,5 +78,20 @@ permalink: /discography/
   strange works<br>   
   released June 14, 2015<br>   
   all songs by Blood sun Imagine<br>
+</div>
+</details>
+
+### out now
+
+![songjeongmansion](https://user-images.githubusercontent.com/88064813/135745161-d81c6018-b0a0-4e65-8739-67449e150c3b.jpeg)
+<details> <summary></summary>
+<div markdown="1">
+  송정맨션<br>
+  songjeongmansion<br>   
+  released October 3, 2021<br>   
+  all songs by gim llama & Khundi Panda<br>
+  mastered by Gyeongseon Park @Boost Knob<br>
+  cover painted by 이환동<br>    
+  digital album -> <a href="https://open.spotify.com/album/5rpHo24DUibA4Uvq0Ucn4S?si=dGlll8RAQqCu-m01oRFN9g">spotify</a><br>
 </div>
 </details>
