@@ -6,7 +6,7 @@ permalink: /discography/
 
 ### out now
 
-![shotgun (#1)](https://user-images.githubusercontent.com/88064813/155632054-0c56e926-decf-43fc-9cf5-e8d78a0636b8.jpg)
+![shotgun (#1)](https://user-images.githubusercontent.com/88064813/155632710-d1551e38-c37f-4394-be8e-5f6ccc721e1a.jpg)
 <details> <summary></summary>
 <div markdown="1">
   샷건 (#1)<br>
