@@ -92,7 +92,7 @@ permalink: /discography/
   all songs by gim llama & Khundi Panda<br>
   mastered by Gyeongseon Park @Boost Knob<br>
   cover painted by 이환동<br>    
-  compact disc -> <a href="https://dejavustore.kr/product/%EA%B9%80%EB%9D%BC%EB%A7%88-%EC%BF%A4%EB%94%94%ED%8C%90%EB%8B%A4-%EC%86%A1%EC%A0%95%EB%A7%A8%EC%85%98-cd/32/category/1/display/2/#none">dejavu store</a>
-  | <a href="https://open.spotify.com/album/5rpHo24DUibA4Uvq0Ucn4S?si=dGlll8RAQqCu-m01oRFN9g">spotify</a><br>
+  compact disc -> <a href="https://dejavustore.kr/product/%EA%B9%80%EB%9D%BC%EB%A7%88-%EC%BF%A4%EB%94%94%ED%8C%90%EB%8B%A4-%EC%86%A1%EC%A0%95%EB%A7%A8%EC%85%98-cd/32/category/1/display/2/#none">dejavu store</a><br>
+ digital album -> <a href="https://open.spotify.com/album/5rpHo24DUibA4Uvq0Ucn4S?si=dGlll8RAQqCu-m01oRFN9g">spotify</a><br>
 </div>
 </details>
