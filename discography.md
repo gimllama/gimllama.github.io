@@ -4,21 +4,6 @@ title: discography
 permalink: /discography/
 ---
 
-### out now
-
-![shotgun (#1)](https://user-images.githubusercontent.com/88064813/155632710-d1551e38-c37f-4394-be8e-5f6ccc721e1a.jpg)
-<details> <summary></summary>
-<div markdown="1">
-  샷건 (#1)<br>
-  shotgun (#1)<br>   
-  released february 25, 2022<br>   
-  a song by gim llama<br>
-  illustrated by cool song<br>    
-  digital single -> <a href="https://linktr.ee/gimllama">link</a><br>
-</div>
-</details>
-
-
 ### EP
 
 ![waiting for lone-gang](https://user-images.githubusercontent.com/88064813/127306889-c2d3608b-b31e-4b7d-a0c0-7b6a015b7f19.jpg)   
@@ -44,6 +29,21 @@ permalink: /discography/
   released July 6, 2016<br>   
   all songs by gim llama<br>
   cover painted by chitosan<br>
+</div>
+</details>
+
+### single
+
+![shotgun (#1)](https://user-images.githubusercontent.com/88064813/155632710-d1551e38-c37f-4394-be8e-5f6ccc721e1a.jpg)
+<details> <summary></summary>
+<div markdown="1">
+  샷건 (#1)<br>
+  shotgun (#1)<br>   
+  released february 25, 2022<br>   
+  a song by gim llama<br>
+  illustrated by cool song<br>    
+  digital single -> <a href="https://gimllama.bandcamp.com/track/shotgun-1">bandcamp</a>
+  | <a href="https://open.spotify.com/album/13xgbJcIvcXrbp1PUMzaRZ">spotify</a><br>
 </div>
 </details>
 
@@ -92,6 +92,7 @@ permalink: /discography/
   all songs by gim llama & Khundi Panda<br>
   mastered by Gyeongseon Park @Boost Knob<br>
   cover painted by 이환동<br>    
-  digital album -> <a href="https://open.spotify.com/album/5rpHo24DUibA4Uvq0Ucn4S?si=dGlll8RAQqCu-m01oRFN9g">spotify</a><br>
+  compact disc -> <a href="https://dejavustore.kr/product/%EA%B9%80%EB%9D%BC%EB%A7%88-%EC%BF%A4%EB%94%94%ED%8C%90%EB%8B%A4-%EC%86%A1%EC%A0%95%EB%A7%A8%EC%85%98-cd/32/category/1/display/2/#none">dejavu store</a>
+  | <a href="https://open.spotify.com/album/5rpHo24DUibA4Uvq0Ucn4S?si=dGlll8RAQqCu-m01oRFN9g">spotify</a><br>
 </div>
 </details>
