@@ -5,10 +5,10 @@ permalink: /about/
 ---
 안녕하세요. 싱어송라이터 **김라마**입니다.
 
-블로그는 잊을 만하면 한 번씩 업데이트합니다.
+이 블로그는 더이상 운영하지 않습니다.
 
-부족한 음악 들어주셔서 늘 감사합니다.
+[네이버 블로그](https://blog.naver.com/gimllama)에서 만나요.
 
-**2022년 03월 21일**
+**2025년 09월 2일**
 
 - Jekyll 테마는 **kotet** 님의 [ultralight](https://github.com/kotet/ultralight/)입니다.
